@@ -1,54 +1,30 @@
-<h1 align="center">bg0d-glitch</h1>
-<p align="center">
-  Security research, bug hunting, and breaking things until they make sense.
-</p>
+# bg0d-glitch
 
-<p align="center">
-  <img src="https://img.shields.io/badge/focus-security%20research-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/interest-web%20app%20security-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/workflow-reversing%20%7C%20poc%20%7C%20triage-238636?style=for-the-badge" />
-</p>
+Cybersecurity student.
 
-## About
+## About Me
 
-I work on:
-- Vulnerability research
-- Proof-of-concept development
-- Web application security testing
-- Reproducing and validating real-world bugs
+- Learning cybersecurity and web security
+- Interested in bug hunting, CTFs, and hands-on practice
+- Building small projects, labs, and PoCs while improving my skills
 
-## Current Focus
+## Currently Learning
 
-- Access control issues
-- Path traversal
-- Upload logic bugs
-- Auth bypass and permission flaws
+- Web application security
+- Linux and networking
+- Go, Python, and Git
+- Basic reverse engineering
 
-## Projects
+## Goals
 
-- Security writeups and PoCs
-- Repro labs
-- Research notes
-- Tooling for testing and validation
+- Improve my practical security skills
+- Share what I learn through projects and notes
+- Build useful tools and better writeups
 
 ## Tech
 
-`Go` `PHP` `TypeScript` `Linux` `HTTP` `Git`
+`Linux` `Git` `Go` `Python` `HTTP`
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bg0d-glitch&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bg0d-glitch&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
-## Contact
+## Profile
 
 - GitHub: [@bg0d-glitch](https://github.com/bg0d-glitch)
-
----
-
-<p align="center">
-  Quiet profile. Loud findings.
-</p>
-
