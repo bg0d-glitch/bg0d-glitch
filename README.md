@@ -1,4 +1,4 @@
-# bg0d-glitch
+# bg0d
 
 Cybersecurity student.
 
